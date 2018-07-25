@@ -1,6 +1,6 @@
 public class LogicaVenda {
 
-    private Custo iv = new ImpostoSobreVenda();
+    private Custo iv = new LogicaCusto();
     private Custo seguro;
 
     public Custo getSeguro() {

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nome\ taxa
+comment0.target=void\ seguro(java.lang.String,\ double)
+comment1.params=venda
+comment1.target=double\ calcularCusto(Venda)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=taxa
+comment3.target=void\ setTaxa(double)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=double\ getTAXA()
+numComments=6
